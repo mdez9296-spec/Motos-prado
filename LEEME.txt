@@ -1,0 +1,20 @@
+CATÁLOGO DE MOTOS PRADO - JAVIER MÉNDEZ
+
+Este paquete actualiza tu catálogo con las 5 fotografías reales recibidas.
+
+CONTENIDO:
+- index.html
+- styles.css
+- carpeta images/ con las 5 fotografías
+
+IMPORTANTE:
+Sube/reemplaza index.html y styles.css en la raíz del repositorio de GitHub.
+También sube la carpeta images completa, con sus cinco archivos JPG.
+No cambies los nombres de los archivos.
+GitHub Pages publicará los cambios automáticamente después de unos minutos.
+
+Página:
+https://mdez9296-spec.github.io/Motos-prado/
+
+WhatsApp configurado:
+50377741034

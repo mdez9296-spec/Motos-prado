@@ -12,3 +12,11 @@
 footer{border-top:1px solid var(--line);padding:22px 0;color:var(--muted);font-size:11px}.footer-inner{display:flex;justify-content:space-between;gap:20px}
 @media(max-width:850px){.catalog-grid{grid-template-columns:repeat(2,1fr)}.finance-inner{align-items:flex-start;flex-direction:column}.hero-orbit{right:-250px}}
 @media(max-width:560px){.wrap{width:min(100% - 30px,1160px)}.nav{height:70px}.nav-links{gap:13px;font-size:10px}.brand{font-size:12px}.brand-mark{width:29px;height:29px}.hero{min-height:530px}.hero-content{padding-top:95px;padding-bottom:100px}.section{padding-top:62px;padding-bottom:65px}.section-top{align-items:flex-start;flex-direction:column}.catalog-grid{grid-template-columns:1fr}.bike-image{height:210px}.filters{gap:6px}.filter{font-size:10px;padding:8px 10px}.finance-inner{padding-top:50px;padding-bottom:50px}.footer-inner{flex-direction:column}}
+
+.brand-subtitle{font-size:10px;font-weight:500;letter-spacing:0;color:#c6c9cc}
+.price-row strong{font-size:12px}
+@media(max-width:560px){.brand-subtitle{display:none}}
+
+/* Fotografías reales del catálogo */
+.bike-image img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center}
+.bike-image .tag{z-index:2}
